@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+tqdm
+albumentations
+grad-cam
+mlflow
+fastapi
+uvicorn
+pillow
